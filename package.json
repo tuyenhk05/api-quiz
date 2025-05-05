@@ -1,9 +1,11 @@
 {
-  "name": "json-server-api",
+  "name": "database",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "A simple JSON server for managing a database.",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server --watch database.json --port 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
 
 
