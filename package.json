@@ -1,0 +1,28 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+
+
+  "author": "Your Name",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/database.git"
+  },
+  "keywords": [
+    "json-server",
+    "database",
+    "api"
+  ],
+  "homepage": "https://github.com/yourusername/database#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/database/issues"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}

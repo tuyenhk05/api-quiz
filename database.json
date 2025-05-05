@@ -1,0 +1,1874 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "password": "password123",
+      "token": "abc123xyz"
+    },
+    {
+      "id": 1743497135518,
+      "username": "tuyen",
+      "email": "tuyen@gmail.com",
+      "password": "4444",
+      "token": "n4vs2q5tf"
+    },
+    {
+      "id": 1743497206580,
+      "username": " ",
+      "email": "",
+      "password": "",
+      "token": "y6u7qpdhj"
+    },
+    {
+      "id": 1743660127545,
+      "username": "tao",
+      "email": "12",
+      "password": "12",
+      "token": "pxwsf8xki"
+    },
+    {
+      "id": 1744612641299,
+      "username": "luong",
+      "email": "luong@gmail.com",
+      "password": "1234",
+      "token": "81m6mhqnz"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Tình yêu và cảm xúc"
+    },
+    {
+      "id": 2,
+      "name": "Hẹn hò và giao tiếp"
+    },
+    {
+      "id": 3,
+      "name": "Gia đình và hôn nhân"
+    },
+    {
+      "id": 4,
+      "name": "Giải quyết mâu thuẫn"
+    },
+    {
+      "id": 5,
+      "name": "Kỹ năng lắng nghe"
+    }
+  ],
+  "questions": [
+    {
+      "id": 101,
+      "topicId": 1,
+      "question": "Ai là ca sĩ từng khiến tim triệu fan 'Sóng Gió' đến mức phải thốt lên 'Bạc Phận'?",
+      "answers": [
+        "J97",
+        "Jack",
+        "Cả J97 và Jack (vì là một người)",
+        "Là người đang hỏi câu này"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 102,
+      "topicId": 1,
+      "question": "Quê của J97 ở đâu mà khiến anh luôn tự hào nhắc đến?",
+      "answers": [
+        "Bến Tre - đất dừa",
+        "Tiền Giang - xứ dừa",
+        "Long An - vùng đất của dừa",
+        "Đâu đó miền Tây có nhiều dừa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 103,
+      "topicId": 1,
+      "question": "J97 khi hát về tình yêu thường có biểu cảm gì?",
+      "answers": [
+        "Mắt lim dim như thiền",
+        "Đưa tay lên trời như đang bay",
+        "Nhún vai liên tục đến mỏi cơ",
+        "Tất cả các đáp án trên đều đúng và khiến fan phát cuồng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 104,
+      "topicId": 1,
+      "question": "Bài hát nào KHÔNG phải là tác phẩm của J97 nói về tình yêu buồn?",
+      "answers": [
+        "Sóng Gió",
+        "Bạc Phận",
+        "Em Vui Là Anh Vui",
+        "Hồng Nhan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 105,
+      "topicId": 1,
+      "question": "Đâu là đạo cụ thường xuất hiện trong MV tình yêu của J97?",
+      "answers": [
+        "Khăn tang trắng",
+        "Đèn dầu",
+        "Nón lá",
+        "Tất cả đáp án trên, vì J97 rất thích drama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 106,
+      "topicId": 1,
+      "question": "Trong MV 'Hồng Nhan', J97 diễn cảnh đau khổ như thế nào?",
+      "answers": [
+        "Quỳ gối trong mưa",
+        "Ôm đàn khóc bên đèn dầu",
+        "Chạy xe máy trong đêm tối",
+        "Tạo dáng trên cầu cổ"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 107,
+      "topicId": 1,
+      "question": "Theo fan, tiếng what trong bài 'Sóng Gió' của J97 có nghĩa là gì?",
+      "answers": [
+        "Cái gì?",
+        "Sao cơ?",
+        "Ý nghĩa sâu xa về sự bối rối trong tình yêu",
+        "Chỉ là một tiếng đệm cho hay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 108,
+      "topicId": 1,
+      "question": "Nếu tình yêu của J97 là một món ăn, đó sẽ là gì?",
+      "answers": [
+        "Canh khổ qua - đắng cay nhưng bổ dưỡng",
+        "Mắm tôm chua - càng để lâu càng nồng nàn",
+        "Bánh xèo miền Tây - giòn tan và đầy hương vị",
+        "Cơm nguội chan nước mắt - ẩm ướt và đắng cay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 109,
+      "topicId": 1,
+      "question": "Điều gì khiến J97 'buồn đến trắng cả một mái đầu'?",
+      "answers": [
+        "Tình yêu tan vỡ",
+        "Mất hợp đồng quảng cáo",
+        "Quên lời khi đang biểu diễn",
+        "Hết dầu gội đầu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 110,
+      "topicId": 1,
+      "question": "J97 thường làm gì khi viết nhạc về tình yêu?",
+      "answers": [
+        "Ngồi một mình trong phòng tối",
+        "Nhìn ra biển với ánh mắt xa xăm",
+        "Đốt nhang tìm cảm hứng",
+        "Tra Google 'câu nào nghe buồn buồn nhưng viral'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 111,
+      "topicId": 1,
+      "question": "Người hâm mộ thường phản ứng thế nào khi nghe J97 hát về tình yêu?",
+      "answers": [
+        "Khóc nức nở",
+        "Hát theo và diễn sâu",
+        "Quay clip reaction rồi đăng TikTok",
+        "Tất cả các phản ứng trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 112,
+      "topicId": 1,
+      "question": "Đâu là cảm xúc chính mà J97 thường thể hiện trong các bài hát tình yêu?",
+      "answers": [
+        "Hạnh phúc tột cùng",
+        "Đau khổ tột cùng",
+        "Bình thản như nước hồ thu",
+        "Phấn khích như vừa trúng số"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 113,
+      "topicId": 1,
+      "question": "Câu nào sau đây không phải là lời trong các bài hát của J97?",
+      "answers": [
+        "Trời sinh ra đã là một cặp",
+        "Một bước yêu vạn dặm đau",
+        "Hồng nhan có mong manh",
+        "Em vui là anh cũng vui theo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 114,
+      "topicId": 1,
+      "question": "Nếu J97 được so sánh với một kiểu thời tiết khi yêu, đó sẽ là gì?",
+      "answers": [
+        "Nắng nhẹ ban mai",
+        "Mưa rào buổi chiều",
+        "Bão cấp 8 kèm sấm sét",
+        "Tuyết rơi giữa miền Tây"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 115,
+      "topicId": 1,
+      "question": "J97 thường xuất hiện với tạo hình nào trong MV tình yêu?",
+      "answers": [
+        "Trai quê mộc mạc",
+        "Soái ca thành thị",
+        "Nghệ sĩ đầy tâm trạng",
+        "Tùy tâm trạng, khi thì A, khi thì B, khi thì C"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 116,
+      "topicId": 1,
+      "question": "Khi hát về tình yêu tan vỡ, J97 thường kết hợp với điều gì?",
+      "answers": [
+        "Cảnh mưa và nước mắt",
+        "Hình ảnh hoàng hôn buồn",
+        "Đồ vật vỡ nát",
+        "Tất cả các yếu tố trên, càng drama càng tốt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 117,
+      "topicId": 1,
+      "question": "Nếu các bài hát tình yêu của J97 là một quyển sách, tên sách sẽ là gì?",
+      "answers": [
+        "Hạnh Phúc Đơn Giản Lắm",
+        "1001 Cách Để Vui Vẻ Sau Chia Tay",
+        "Nghệ Thuật Sống Còn Với Trái Tim Tan Vỡ",
+        "Cẩm Nang Khóc Đêm Không Ai Thấy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 118,
+      "topicId": 1,
+      "question": "Trong MV 'Sóng Gió', J97 đã sử dụng chiếc xe gì khi đi tìm người yêu?",
+      "answers": [
+        "Xe đạp cọc cạch",
+        "Xe máy cũ kỹ",
+        "Ô tô mui trần",
+        "Đi bộ cho thêm phần cảm xúc"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 119,
+      "topicId": 1,
+      "question": "Theo các antifan, cách diễn đạt cảm xúc trong MV của J97 giống với?",
+      "answers": [
+        "Diễn viên Hollywood đoạt giải Oscar",
+        "Diễn viên truyền hình Hàn Quốc",
+        "Học sinh cấp 3 diễn kịch",
+        "Người đang bị đau bụng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 120,
+      "topicId": 1,
+      "question": "Điều gì sẽ xảy ra nếu J97 làm một album về tình yêu hạnh phúc?",
+      "answers": [
+        "Fan sẽ bất ngờ và thích thú",
+        "Người nghe sẽ nghi ngờ có ai đó viết hộ",
+        "Cổ phiếu các công ty bán khăn giấy sẽ giảm",
+        "Trời sẽ nổi cơn mưa ngược"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 201,
+      "topicId": 2,
+      "question": "Theo antifan, câu nói nào phản ánh phong cách giao tiếp của J97?",
+      "answers": [
+        "Im lặng là vàng",
+        "Nói ít, làm nhiều",
+        "What là gì?",
+        "Trước khi trả lời, hãy suy nghĩ cẩn thận để tránh drama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 202,
+      "topicId": 2,
+      "question": "J97 thường giao tiếp với fan qua phương tiện nào nhiều nhất?",
+      "answers": [
+        "Facebook cá nhân",
+        "TikTok",
+        "Tin nhắn telepathy",
+        "Phát tín hiệu khói"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 203,
+      "topicId": 2,
+      "question": "Khi gặp fan, J97 thường làm gì?",
+      "answers": [
+        "Ôm mỗi người một cái",
+        "Cúi chào lịch sự",
+        "Vẫy tay từ xa",
+        "Giả vờ nhìn điện thoại và đi nhanh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 204,
+      "topicId": 2,
+      "question": "J97 từng hẹn hò với nữ diễn viên nào trong MV 'Sóng Gió'?",
+      "answers": [
+        "Thiên An",
+        "Linh Ka",
+        "Khánh Vân",
+        "Tam Triều Dâng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 205,
+      "topicId": 2,
+      "question": "Phong cách hẹn hò mà J97 thể hiện trong MV là gì?",
+      "answers": [
+        "Lãng mạn kiểu Pháp",
+        "Mộc mạc kiểu miền Tây",
+        "Hiện đại kiểu Hàn Quốc",
+        "Drama kiểu phim Ấn Độ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 206,
+      "topicId": 2,
+      "question": "Theo fan, J97 thường mặc gì khi đi hẹn hò?",
+      "answers": [
+        "Áo thun trắng đơn giản",
+        "Áo sơ mi đen lịch lãm",
+        "Trang phục được stylist chuẩn bị kỹ lưỡng",
+        "Ai biết được, bí mật quá mà"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 207,
+      "topicId": 2,
+      "question": "Khi muốn giao tiếp với đồng nghiệp, J97 thường làm gì?",
+      "answers": [
+        "Gửi tin nhắn qua quản lý",
+        "Gọi điện trực tiếp",
+        "Hẹn gặp mặt",
+        "Like ảnh trên Facebook"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 208,
+      "topicId": 2,
+      "question": "Theo antifan, J97 giỏi nhất kỹ năng giao tiếp nào?",
+      "answers": [
+        "Nói chuyện hài hước",
+        "Lắng nghe",
+        "Thuyết trình",
+        "Giữ im lặng đầy ẩn ý"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 209,
+      "topicId": 2,
+      "question": "Địa điểm hẹn hò lý tưởng của J97 có thể là đâu?",
+      "answers": [
+        "Quán cà phê yên tĩnh",
+        "Nhà hàng sang trọng",
+        "Công viên vắng vẻ",
+        "Studio thu âm (vì ở đó không có paparazzi)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 210,
+      "topicId": 2,
+      "question": "Trong các buổi phỏng vấn, J97 thường trả lời câu hỏi như thế nào?",
+      "answers": [
+        "Thẳng thắn và chi tiết",
+        "Ngắn gọn và đúng trọng tâm",
+        "Dài dòng và lạc đề",
+        "Mỉm cười bí ẩn và trả lời nước đôi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 211,
+      "topicId": 2,
+      "question": "Khi được hỏi về chuyện tình cảm, J97 thường phản ứng thế nào?",
+      "answers": [
+        "Chia sẻ thẳng thắn",
+        "Cười và chuyển đề tài",
+        "Trả lời nước đôi",
+        "Im lặng nhìn xa xăm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 212,
+      "topicId": 2,
+      "question": "Món quà hẹn hò mà J97 có thể tặng là gì?",
+      "answers": [
+        "Một bó hoa hồng",
+        "Một chiếc túi hàng hiệu",
+        "Một bài hát tự sáng tác",
+        "Một cuốn sách về cách giữ bình tĩnh"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 213,
+      "topicId": 2,
+      "question": "J97 từng chia sẻ về cách giao tiếp với fan như thế nào?",
+      "answers": [
+        "Thân thiện và cởi mở",
+        "Giữ khoảng cách nhất định",
+        "Tùy tâm trạng",
+        "Không chia sẻ, chỉ âm thầm đọc comment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 214,
+      "topicId": 2,
+      "question": "Nếu J97 viết một cuốn sách về kỹ năng giao tiếp, tên sách sẽ là gì?",
+      "answers": [
+        "Cách Nói Chuyện Hiệu Quả",
+        "Nghệ Thuật Im Lặng Đúng Lúc",
+        "Làm Sao Để Tránh Drama",
+        "What Là Gì và 1001 Cách Trả Lời Báo Chí"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 215,
+      "topicId": 2,
+      "question": "Trong một buổi hẹn, J97 có thể sẽ nghe loại nhạc nào?",
+      "answers": [
+        "Nhạc của chính mình",
+        "Ballad Hàn Quốc",
+        "Nhạc không lời",
+        "Im lặng để nghe tiếng tim đập"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 216,
+      "topicId": 2,
+      "question": "Cách J97 kết thúc một cuộc hẹn hò có thể là gì?",
+      "answers": [
+        "Lái xe đưa đối phương về nhà",
+        "Gọi taxi và thanh toán trước",
+        "Hát một bài tặng đối phương",
+        "Biến mất đầy bí ẩn để tạo ấn tượng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 217,
+      "topicId": 2,
+      "question": "Theo fan, đâu là chủ đề J97 thích nói chuyện nhất khi gặp gỡ?",
+      "answers": [
+        "Âm nhạc và sáng tác",
+        "Quê hương miền Tây",
+        "Phim ảnh và sách",
+        "Thời tiết và tin tức thời sự"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 218,
+      "topicId": 2,
+      "question": "Khi một fan xin chụp ảnh cùng, J97 thường làm gì?",
+      "answers": [
+        "Vui vẻ đồng ý",
+        "Từ chối khéo vì lý do riêng tư",
+        "Nhờ quản lý xử lý tình huống",
+        "Đồng ý nhưng có điều kiện về góc chụp và ánh sáng"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 219,
+      "topicId": 2,
+      "question": "Antifan nghĩ gì về cách J97 giao tiếp trong các show truyền hình?",
+      "answers": [
+        "Tự nhiên và duyên dáng",
+        "Gượng gạo và thiếu tự nhiên",
+        "Quá kín đáo và khó hiểu",
+        "Như đang đọc kịch bản có sẵn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 220,
+      "topicId": 2,
+      "question": "Điều gì xảy ra khi J97 gặp một fan 'cuồng nhiệt'?",
+      "answers": [
+        "Ôm chặt và chụp ảnh cùng",
+        "Ký tặng và trò chuyện thân thiện",
+        "Lịch sự chào hỏi và rời đi",
+        "Nhờ đội ngũ an ninh can thiệp"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 301,
+      "topicId": 3,
+      "question": "J97 thường đề cập đến vai trò gì trong gia đình?",
+      "answers": [
+        "Người con hiếu thảo",
+        "Người anh cả gương mẫu",
+        "Người em út được cưng chiều",
+        "Người con trai duy nhất trong gia đình"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 302,
+      "topicId": 3,
+      "question": "Theo MV 'Là Một Thằng Con Trai', J97 cho rằng người đàn ông trong gia đình cần phải?",
+      "answers": [
+        "Kiếm thật nhiều tiền",
+        "Chăm sóc cha mẹ già",
+        "Có trách nhiệm và sống có ích",
+        "Tất cả các đáp án trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 303,
+      "topicId": 3,
+      "question": "Nếu J97 kết hôn, đám cưới có thể sẽ diễn ra ở đâu?",
+      "answers": [
+        "Quê nhà ở miền Tây",
+        "Thành phố Hồ Chí Minh",
+        "Resort sang trọng ở Đà Nẵng",
+        "Bí mật và kín đáo ở một địa điểm không tiết lộ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 304,
+      "topicId": 3,
+      "question": "Hình ảnh gia đình trong MV của J97 thường được thể hiện như thế nào?",
+      "answers": [
+        "Gia đình hạnh phúc đầy đủ",
+        "Gia đình có hoàn cảnh khó khăn",
+        "Chỉ có mẹ và con",
+        "Tùy theo concept mỗi MV"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 305,
+      "topicId": 3,
+      "question": "Theo antifan, J97 có thể đặt tên con đầu lòng là gì?",
+      "answers": [
+        "Một cái tên thuần Việt",
+        "Tên kết hợp tiếng Anh và tiếng Việt",
+        "J98 (phiên bản nâng cấp)",
+        "Một cái tên có ý nghĩa đặc biệt và rất cá tính"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 306,
+      "topicId": 3,
+      "question": "Món quà J97 có thể tặng cho cha mẹ sau khi thành công là gì?",
+      "answers": [
+        "Một căn nhà mới",
+        "Một chuyến du lịch quanh thế giới",
+        "Tiền để tự do chi tiêu",
+        "Tất cả các đáp án trên, vì hiếu thảo mà"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 307,
+      "topicId": 3,
+      "question": "Antifan nghĩ J97 sẽ là kiểu cha như thế nào trong tương lai?",
+      "answers": [
+        "Cha nghiêm khắc",
+        "Cha hiền lành",
+        "Cha biết cân bằng giữa nghiêm khắc và hiền lành",
+        "Cha luôn bận rộn với lịch trình"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 308,
+      "topicId": 3,
+      "question": "Trong bài 'Là Một Thằng Con Trai', J97 nhắc đến vai trò của người đàn ông là gì?",
+      "answers": [
+        "Trụ cột gia đình",
+        "Người con có hiếu",
+        "Chỗ dựa tinh thần",
+        "Tất cả các đáp án trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 309,
+      "topicId": 3,
+      "question": "Theo antifan, khi J97 lập gia đình, anh sẽ sống ở đâu?",
+      "answers": [
+        "Quê nhà miền Tây",
+        "Thành phố Hồ Chí Minh",
+        "Nước ngoài",
+        "Biệt thự biệt lập có hệ thống an ninh"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 310,
+      "topicId": 3,
+      "question": "J97 đã từng chia sẻ điều gì về mẹ của mình?",
+      "answers": [
+        "Mẹ là người phụ nữ mạnh mẽ",
+        "Mẹ luôn ủng hộ con đường nghệ thuật",
+        "Mẹ là người dạy anh nhiều bài học về cuộc sống",
+        "Tất cả các đáp án trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 311,
+      "topicId": 3,
+      "question": "Antifan nghĩ món ăn J97 nấu ngon nhất cho gia đình là gì?",
+      "answers": [
+        "Canh chua cá lóc",
+        "Cơm tấm sườn bì chả",
+        "Mì gói",
+        "Món ăn đặt về từ nhà hàng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 312,
+      "topicId": 3,
+      "question": "J97 thường dành thời gian cho gia đình vào lúc nào?",
+      "answers": [
+        "Cuối tuần",
+        "Các dịp lễ tết",
+        "Khoảng thời gian rảnh hiếm hoi",
+        "Khi có show ở gần quê nhà"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 313,
+      "topicId": 3,
+      "question": "Sở thích J97 có thể chia sẻ với gia đình vào ngày nghỉ là gì?",
+      "answers": [
+        "Đi câu cá",
+        "Xem phim",
+        "Nấu ăn cùng nhau",
+        "Tính tiền cát-xê"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 314,
+      "topicId": 3,
+      "question": "Antifan nghĩ J97 sẽ đặt tên thú cưng trong gia đình là gì?",
+      "answers": [
+        "Lucky (May mắn)",
+        "Sóng Gió",
+        "Đom Đóm",
+        "K-ICM Jr."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 315,
+      "topicId": 3,
+      "question": "J97 từng chia sẻ quan điểm về hôn nhân như thế nào?",
+      "answers": [
+        "Kết hôn sớm để có gia đình",
+        "Tập trung sự nghiệp trước, tình yêu sau",
+        "Kết hôn với người cùng ngành",
+        "Im lặng đầy ẩn ý"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 316,
+      "topicId": 3,
+      "question": "Theo antifan, kiểu vợ/chồng lý tưởng của J97 là?",
+      "answers": [
+        "Người cùng ngành nghệ thuật",
+        "Người hoàn toàn xa lạ với showbiz",
+        "Người hiểu và ủng hộ sự nghiệp",
+        "Người có khả năng viết lời bài hát thay thế K-ICM"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 317,
+      "topicId": 3,
+      "question": "Khi đi diễn xa, J97 thường nhớ điều gì về gia đình?",
+      "answers": [
+        "Đồ ăn mẹ nấu",
+        "Giọng nói của người thân",
+        "Không khí ấm áp ở nhà",
+        "Không có drama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 318,
+      "topicId": 3,
+      "question": "J97 thường chuẩn bị quà gì cho gia đình vào dịp Tết?",
+      "answers": [
+        "Quần áo mới",
+        "Đồ điện tử",
+        "Tiền lì xì",
+        "Album nhạc mới của mình"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 319,
+      "topicId": 3,
+      "question": "Nếu J97 tổ chức tiệc gia đình, chủ đề có thể là gì?",
+      "answers": [
+        "Gặp mặt đơn giản và ấm cúng",
+        "Tiệc tùng hoành tráng",
+        "BBQ ngoài trời",
+        "Ra mắt album mới"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 320,
+      "topicId": 3,
+      "question": "Theo antifan, J97 sẽ dạy con mình điều gì đầu tiên?",
+      "answers": [
+        "Lòng hiếu thảo",
+        "Kỹ năng ca hát",
+        "Đạo đức làm người",
+        "Cách nói 'What' đúng cách"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 401,
+      "topicId": 4,
+      "question": "J97 giải quyết mâu thuẫn với K-ICM bằng cách nào?",
+      "answers": [
+        "Nói chuyện trực tiếp",
+        "Nhờ người trung gian",
+        "Đăng story đá xéo",
+        "Im lặng và ra nhạc mới"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 402,
+      "topicId": 4,
+      "question": "Phương châm giải quyết mâu thuẫn của J97 có thể là gì?",
+      "answers": [
+        "Đối mặt và nói thẳng",
+        "Tìm giải pháp thỏa hiệp",
+        "Dĩ hòa vi quý",
+        "Im lặng là vàng, ra nhạc là bạc"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 403,
+      "topicId": 4,
+      "question": "Khi phát sinh mâu thuẫn với đồng nghiệp, J97 thường làm gì đầu tiên?",
+      "answers": [
+        "Liên hệ trực tiếp để giải quyết",
+        "Tham khảo ý kiến quản lý",
+        "Viết một bài hát mới",
+        "Đăng status mập mờ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 404,
+      "topicId": 4,
+      "question": "Theo antifan, cách J97 xử lý tin đồn tiêu cực là gì?",
+      "answers": [
+        "Phản hồi ngay lập tức",
+        "Tổ chức họp báo làm rõ",
+        "Nhờ người đại diện phát ngôn",
+        "Im lặng như mộ và để fan đoán già đoán non"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 405,
+      "topicId": 4,
+      "question": "Khi có bài viết tiêu cực, J97 thường phản ứng như thế nào?",
+      "answers": [
+        "Kiện ra tòa",
+        "Phản hồi trên MXH",
+        "Liên hệ với báo để đính chính",
+        "Ra MV mới để người ta quên chuyện cũ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 406,
+      "topicId": 4,
+      "question": "Theo antifan, để tránh mâu thuẫn, J97 thường tránh đề cập đến chủ đề gì?",
+      "answers": [
+        "Chuyện tình cảm cá nhân",
+        "Quan điểm chính trị",
+        "Đồng nghiệp trong ngành",
+        "Tất cả đáp án trên, vì im lặng là vàng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 407,
+      "topicId": 4,
+      "question": "Khi fan và antifan xảy ra tranh cãi, J97 thường xử lý thế nào?",
+      "answers": [
+        "Lên tiếng kêu gọi bình tĩnh",
+        "Đứng về phía fan",
+        "Giải thích rõ ràng vấn đề",
+        "Giả vờ không thấy gì"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 408,
+      "topicId": 4,
+      "question": "Trong showbiz, J97 giải quyết cạnh tranh với đồng nghiệp bằng cách nào?",
+      "answers": [
+        "Hợp tác thay vì cạnh tranh",
+        "Tập trung vào phong cách riêng",
+        "Không quan tâm đến đối thủ",
+        "Tung sản phẩm vào cùng thời điểm để 'đối đầu'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 409,
+      "topicId": 4,
+      "question": "Nếu bị truyền thông hiểu lầm, J97 có thể phản ứng thế nào?",
+      "answers": [
+        "Lên tiếng phản bác ngay lập tức",
+        "Làm rõ thông qua phỏng vấn",
+        "Nhờ người đại diện giải thích",
+        "Viết một bài hát về chuyện bị hiểu lầm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 410,
+      "topicId": 4,
+      "question": "Theo antifan, J97 giải quyết mâu thuẫn nội bộ trong nhóm nhạc bằng cách nào?",
+      "answers": [
+        "Thảo luận thẳng thắn",
+        "Nhờ người quản lý làm trung gian",
+        "Tạm ngưng hoạt động chung",
+        "Tách nhóm và hoạt động solo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 411,
+      "topicId": 4,
+      "question": "Khi bị chê bai về giọng hát, J97 phản ứng thế nào?",
+      "answers": [
+        "Phớt lờ và tiếp tục phát triển",
+        "Lắng nghe và cải thiện",
+        "Phản hồi gay gắt",
+        "Thuê một đội quân fan để 'phản pháo'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 412,
+      "topicId": 4,
+      "question": "Theo antifan, cách J97 xin lỗi khi mắc lỗi là gì?",
+      "answers": [
+        "Xin lỗi trực tiếp và chân thành",
+        "Đăng bài xin lỗi trên MXH",
+        "Tổ chức họp báo",
+        "Ra MV với giai điệu buồn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 413,
+      "topicId": 4,
+      "question": "Theo quan sát của antifan, J97 giải quyết mâu thuẫn với đồng nghiệp theo cách nào?",
+      "answers": [
+        "Nói chuyện riêng để làm rõ",
+        "Gặp mặt và giải quyết",
+        "Nhờ công ty quản lý can thiệp",
+        "Tránh gặp mặt trong các sự kiện"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 414,
+      "topicId": 4,
+      "question": "Antifan cho rằng, khi bị so sánh với ca sĩ khác, J97 sẽ phản ứng thế nào?",
+      "answers": [
+        "Tỏ ra không quan tâm",
+        "Khẳng định phong cách riêng",
+        "Cảm ơn vì được so sánh",
+        "Viết một bài hát nói về việc 'không ai giống ai'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 415,
+      "topicId": 4,
+      "question": "Khi một bài hát không được đón nhận, J97 sẽ làm gì?",
+      "answers": [
+        "Lắng nghe phản hồi và cải thiện",
+        "Giải thích ý đồ nghệ thuật",
+        "Cho rằng khán giả chưa hiểu",
+        "Ra ngay một bài hát khác để 'chữa cháy'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 416,
+      "topicId": 4,
+      "question": "Theo antifan, khi mắc lỗi phát ngôn, J97 thường làm gì?",
+      "answers": [
+        "Đính chính ngay lập tức",
+        "Chấp nhận đã sai và xin lỗi",
+        "Giải thích đã bị hiểu lầm",
+        "Im lặng và chờ bão qua"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 417,
+      "topicId": 4,
+      "question": "Khi gặp vấn đề với fan cuồng, J97 xử lý thế nào?",
+      "answers": [
+        "Trò chuyện để làm rõ ranh giới",
+        "Tránh tiếp xúc",
+        "Nhờ đội ngũ an ninh can thiệp",
+        "Đăng story nói về 'tình yêu đích thực của fan'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 418,
+      "topicId": 4,
+      "question": "Theo antifan, J97 giải quyết xung đột giữa các fanclub bằng cách nào?",
+      "answers": [
+        "Kêu gọi fan hòa thuận",
+        "Tổ chức buổi gặp mặt chung",
+        "Nhắc nhở về tình yêu âm nhạc",
+        "Lên sân khấu và hát 'Hôm Nay Tôi Buồn'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 419,
+      "topicId": 4,
+      "question": "Khi antifan chê bai MV, J97 thường phản ứng thế nào?",
+      "answers": [
+        "Lắng nghe để cải thiện",
+        "Phớt lờ",
+        "Phản bác với lý lẽ",
+        "Đăng story kín đáo ám chỉ 'ai đó không hiểu nghệ thuật'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 420,
+      "topicId": 4,
+      "question": "Theo antifan, cách tốt nhất để J97 giải quyết mọi mâu thuẫn là gì?",
+      "answers": [
+        "Nói chuyện thẳng thắn",
+        "Xin lỗi chân thành",
+        "Học hỏi từ kinh nghiệm",
+        "Ra nhạc buồn và để fan tự hiểu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 501,
+      "topicId": 5,
+      "question": "Theo fan, J97 lắng nghe fan qua phương tiện nào nhiều nhất?",
+      "answers": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "Người đại diện báo cáo lại"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 502,
+      "topicId": 5,
+      "question": "Khi phỏng vấn, J97 thể hiện kỹ năng lắng nghe như thế nào?",
+      "answers": [
+        "Gật đầu liên tục",
+        "Nhìn vào mắt người nói",
+        "Đặt câu hỏi phản hồi",
+        "What? What? What?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 503,
+      "topicId": 5,
+      "question": "Khi fan chia sẻ ý kiến, J97 thường phản ứng thế nào?",
+      "answers": [
+        "Ghi nhận và cảm ơn",
+        "Trao đổi thêm để hiểu rõ",
+        "Hứa sẽ cải thiện",
+        "Like và gửi icon trái tim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 504,
+      "topicId": 5,
+      "question": "Antifan cho rằng J97 nghe lời góp ý từ ai nhiều nhất?",
+      "answers": [
+        "Gia đình",
+        "Nhà sản xuất âm nhạc",
+        "Quản lý",
+        "TikToker nổi tiếng"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 505,
+      "topicId": 5,
+      "question": "Kỹ năng lắng nghe của J97 trong các buổi phỏng vấn được đánh giá như thế nào?",
+      "answers": [
+        "Chăm chú và tập trung",
+        "Thỉnh thoảng mất tập trung",
+        "Luôn sẵn sàng phản hồi",
+        "Lắng nghe chọn lọc những gì cần nghe"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 506,
+      "topicId": 5,
+      "question": "Theo antifan, khi bị chỉ trích, J97 lắng nghe theo cách nào?",
+      "answers": [
+        "Tiếp thu và sửa đổi",
+        "Lắng nghe nhưng giữ quan điểm",
+        "Phớt lờ những ý kiến tiêu cực",
+        "Giả vờ không đọc comment"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 507,
+      "topicId": 5,
+      "question": "J97 thể hiện sự lắng nghe trong việc sáng tác như thế nào?",
+      "answers": [
+        "Đón nhận ý kiến từ người hâm mộ",
+        "Lắng nghe xu hướng âm nhạc hiện tại",
+        "Tiếp thu góp ý từ đồng nghiệp",
+        "Nghe lại bài của K-ICM để làm ngược lại"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 508,
+      "topicId": 5,
+      "question": "Antifan cho rằng J97 lắng nghe truyền thông theo cách nào?",
+      "answers": [
+        "Theo dõi sát sao các bài viết",
+        "Nhờ quản lý cập nhật",
+        "Đọc các bài báo liên quan",
+        "Chỉ đọc tiêu đề rồi phán đoán nội dung"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 509,
+      "topicId": 5,
+      "question": "Khi được fan xin lời khuyên, J97 lắng nghe và phản hồi thế nào?",
+      "answers": [
+        "Lắng nghe cẩn thận và đưa ra lời khuyên",
+        "Chia sẻ kinh nghiệm bản thân",
+        "Khuyên fan nên tự tin vào bản thân",
+        "Khuyên fan nên nghe thêm nhạc của mình"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 510,
+      "topicId": 5,
+      "question": "Theo antifan, J97 lắng nghe các bài hát mới của đồng nghiệp như thế nào?",
+      "answers": [
+        "Nghe và khen ngợi công khai",
+        "Nghe để học hỏi",
+        "Không quan tâm nhiều",
+        "Bật 15 giây rồi tắt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 511,
+      "topicId": 5,
+      "question": "Trong các gameshow, J97 thể hiện kỹ năng lắng nghe ra sao?",
+      "answers": [
+        "Chăm chú nghe hướng dẫn luật chơi",
+        "Tập trung vào người dẫn chương trình",
+        "Tương tác với người chơi khác",
+        "Đợi đến lượt mình rồi hỏi lại luật chơi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 512,
+      "topicId": 5,
+      "question": "Theo quan sát của antifan, J97 lắng nghe đối tác âm nhạc như thế nào?",
+      "answers": [
+        "Cởi mở với mọi ý tưởng",
+        "Lắng nghe nhưng vẫn giữ ý kiến riêng",
+        "Thảo luận để tìm giải pháp tốt nhất",
+        "Gật đầu rồi vẫn làm theo ý mình"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 513,
+      "topicId": 5,
+      "question": "Khi lắng nghe lời khuyên từ tiền bối trong nghề, J97 thường làm gì?",
+      "answers": [
+        "Tiếp thu và áp dụng",
+        "Ghi nhận để cân nhắc",
+        "Bày tỏ sự biết ơn",
+        "Giả vờ nghe hiểu nhưng vẫn theo đuổi phong cách riêng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 514,
+      "topicId": 5,
+      "question": "Trong các buổi giao lưu, J97 thường làm gì để thể hiện đang lắng nghe?",
+      "answers": [
+        "Gật đầu và mỉm cười",
+        "Nhìn vào mắt người nói",
+        "Đặt câu hỏi liên quan",
+        "Sẵn sàng biểu cảm kịp thời"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 515,
+      "topicId": 5,
+      "question": "Theo antifan, khi được fan nhí hỏi chuyện, J97 lắng nghe như thế nào?",
+      "answers": [
+        "Chú ý đặc biệt và trả lời dễ hiểu",
+        "Cúi xuống ngang tầm và lắng nghe",
+        "Kiên nhẫn đợi trẻ nói xong",
+        "Mỉm cười và nhanh chóng chuyển chủ đề"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 516,
+      "topicId": 5,
+      "question": "Antifan cho rằng J97 lắng nghe ý kiến trái chiều bằng cách nào?",
+      "answers": [
+        "Tiếp thu những góp ý xây dựng",
+        "Tôn trọng ý kiến khác biệt",
+        "Giải thích quan điểm của mình",
+        "Block và unfriend"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 517,
+      "topicId": 5,
+      "question": "Khi lắng nghe nhạc của chính mình, J97 thường chú ý đến điều gì nhất?",
+      "answers": [
+        "Chất lượng âm thanh",
+        "Cảm xúc mà bài hát mang lại",
+        "Phản ứng của người nghe",
+        "Số lượt view và comment"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 518,
+      "topicId": 5,
+      "question": "Trong việc lắng nghe fan kể về vấn đề cá nhân, J97 sẽ phản ứng thế nào?",
+      "answers": [
+        "Lắng nghe và động viên",
+        "Chia sẻ kinh nghiệm tương tự",
+        "Đưa ra lời khuyên chân thành",
+        "Gửi link MV 'Sóng Gió' để fan tự hiểu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 519,
+      "topicId": 5,
+      "question": "Theo antifan, khi bị hiểu lầm, J97 thể hiện kỹ năng lắng nghe bằng cách nào?",
+      "answers": [
+        "Lắng nghe mọi ý kiến trước khi giải thích",
+        "Tìm hiểu nguyên nhân gây hiểu lầm",
+        "Giải thích rõ ràng quan điểm của mình",
+        "Im lặng và đợi scandal tiếp theo xuất hiện"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 520,
+      "topicId": 5,
+      "question": "Kỹ năng lắng nghe tốt nhất của J97 theo antifan là gì?",
+      "answers": [
+        "Lắng nghe ý kiến fan",
+        "Tiếp thu góp ý từ đồng nghiệp",
+        "Nghe lời khuyên từ gia đình",
+        "Nghe tiếng tiền rơi vào tài khoản"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "userAnswers": [
+    {
+      "id": 1,
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 101,
+          "answer": 0
+        },
+        {
+          "questionId": 102,
+          "answer": 1
+        },
+        {
+          "questionId": 103,
+          "answer": 2
+        },
+        {
+          "questionId": 104,
+          "answer": 3
+        },
+        {
+          "questionId": 105,
+          "answer": 0
+        },
+        {
+          "questionId": 106,
+          "answer": 1
+        },
+        {
+          "questionId": 107,
+          "answer": 2
+        },
+        {
+          "questionId": 108,
+          "answer": 3
+        },
+        {
+          "questionId": 109,
+          "answer": 0
+        },
+        {
+          "questionId": 110,
+          "answer": 1
+        },
+        {
+          "questionId": 111,
+          "answer": 2
+        },
+        {
+          "questionId": 112,
+          "answer": 3
+        },
+        {
+          "questionId": 113,
+          "answer": 0
+        },
+        {
+          "questionId": 114,
+          "answer": 1
+        },
+        {
+          "questionId": 115,
+          "answer": 2
+        },
+        {
+          "questionId": 116,
+          "answer": 3
+        },
+        {
+          "questionId": 117,
+          "answer": 0
+        },
+        {
+          "questionId": 118,
+          "answer": 1
+        },
+        {
+          "questionId": 119,
+          "answer": 2
+        },
+        {
+          "questionId": 120,
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": 1743660145803,
+      "userId": 1743660127545,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 101,
+          "answer": 2
+        },
+        {
+          "questionId": 102,
+          "answer": 0
+        },
+        {
+          "questionId": 103,
+          "answer": 3
+        },
+        {
+          "questionId": 104,
+          "answer": 2
+        },
+        {
+          "questionId": 105,
+          "answer": 1
+        },
+        {
+          "questionId": 106,
+          "answer": 0
+        },
+        {
+          "questionId": 107,
+          "answer": 0
+        },
+        {
+          "questionId": 108,
+          "answer": 3
+        },
+        {
+          "questionId": 109,
+          "answer": 0
+        },
+        {
+          "questionId": 110,
+          "answer": 0
+        },
+        {
+          "questionId": 111,
+          "answer": 3
+        },
+        {
+          "questionId": 112,
+          "answer": 1
+        },
+        {
+          "questionId": 113,
+          "answer": 1
+        },
+        {
+          "questionId": 114,
+          "answer": 0
+        },
+        {
+          "questionId": 115,
+          "answer": 3
+        },
+        {
+          "questionId": 116,
+          "answer": 3
+        },
+        {
+          "questionId": 117,
+          "answer": 0
+        },
+        {
+          "questionId": 118,
+          "answer": 2
+        },
+        {
+          "questionId": 119,
+          "answer": 2
+        },
+        {
+          "questionId": 120,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 1743660597984,
+      "userId": null,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 201,
+          "answer": null
+        },
+        {
+          "questionId": 202,
+          "answer": null
+        },
+        {
+          "questionId": 203,
+          "answer": null
+        },
+        {
+          "questionId": 204,
+          "answer": null
+        },
+        {
+          "questionId": 205,
+          "answer": null
+        },
+        {
+          "questionId": 206,
+          "answer": null
+        },
+        {
+          "questionId": 207,
+          "answer": null
+        },
+        {
+          "questionId": 208,
+          "answer": null
+        },
+        {
+          "questionId": 209,
+          "answer": null
+        },
+        {
+          "questionId": 210,
+          "answer": null
+        },
+        {
+          "questionId": 211,
+          "answer": null
+        },
+        {
+          "questionId": 212,
+          "answer": null
+        },
+        {
+          "questionId": 213,
+          "answer": null
+        },
+        {
+          "questionId": 214,
+          "answer": null
+        },
+        {
+          "questionId": 215,
+          "answer": null
+        },
+        {
+          "questionId": 216,
+          "answer": null
+        },
+        {
+          "questionId": 217,
+          "answer": null
+        },
+        {
+          "questionId": 218,
+          "answer": null
+        },
+        {
+          "questionId": 219,
+          "answer": null
+        },
+        {
+          "questionId": 220,
+          "answer": null
+        }
+      ]
+    },
+    {
+      "id": 1743928935603,
+      "userId": 1743660127545,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 201,
+          "answer": 1
+        },
+        {
+          "questionId": 202,
+          "answer": 2
+        },
+        {
+          "questionId": 203,
+          "answer": 1
+        },
+        {
+          "questionId": 204,
+          "answer": null
+        },
+        {
+          "questionId": 205,
+          "answer": null
+        },
+        {
+          "questionId": 206,
+          "answer": null
+        },
+        {
+          "questionId": 207,
+          "answer": null
+        },
+        {
+          "questionId": 208,
+          "answer": null
+        },
+        {
+          "questionId": 209,
+          "answer": null
+        },
+        {
+          "questionId": 210,
+          "answer": null
+        },
+        {
+          "questionId": 211,
+          "answer": null
+        },
+        {
+          "questionId": 212,
+          "answer": null
+        },
+        {
+          "questionId": 213,
+          "answer": null
+        },
+        {
+          "questionId": 214,
+          "answer": null
+        },
+        {
+          "questionId": 215,
+          "answer": null
+        },
+        {
+          "questionId": 216,
+          "answer": null
+        },
+        {
+          "questionId": 217,
+          "answer": null
+        },
+        {
+          "questionId": 218,
+          "answer": null
+        },
+        {
+          "questionId": 219,
+          "answer": null
+        },
+        {
+          "questionId": 220,
+          "answer": null
+        }
+      ]
+    },
+    {
+      "id": 1744612669153,
+      "userId": 1744612641299,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 301,
+          "answer": 0
+        },
+        {
+          "questionId": 302,
+          "answer": 3
+        },
+        {
+          "questionId": 303,
+          "answer": 0
+        },
+        {
+          "questionId": 304,
+          "answer": 3
+        },
+        {
+          "questionId": 305,
+          "answer": 1
+        },
+        {
+          "questionId": 306,
+          "answer": 3
+        },
+        {
+          "questionId": 307,
+          "answer": 3
+        },
+        {
+          "questionId": 308,
+          "answer": 3
+        },
+        {
+          "questionId": 309,
+          "answer": 0
+        },
+        {
+          "questionId": 310,
+          "answer": 3
+        },
+        {
+          "questionId": 311,
+          "answer": 0
+        },
+        {
+          "questionId": 312,
+          "answer": null
+        },
+        {
+          "questionId": 313,
+          "answer": 1
+        },
+        {
+          "questionId": 314,
+          "answer": null
+        },
+        {
+          "questionId": 315,
+          "answer": null
+        },
+        {
+          "questionId": 316,
+          "answer": null
+        },
+        {
+          "questionId": 317,
+          "answer": null
+        },
+        {
+          "questionId": 318,
+          "answer": null
+        },
+        {
+          "questionId": 319,
+          "answer": null
+        },
+        {
+          "questionId": 320,
+          "answer": null
+        }
+      ]
+    },
+    {
+      "id": 1744721446877,
+      "userId": 1743497135518,
+      "topicId": 4,
+      "answers": [
+        {
+          "questionId": 401,
+          "answer": null
+        },
+        {
+          "questionId": 402,
+          "answer": null
+        },
+        {
+          "questionId": 403,
+          "answer": null
+        },
+        {
+          "questionId": 404,
+          "answer": null
+        },
+        {
+          "questionId": 405,
+          "answer": null
+        },
+        {
+          "questionId": 406,
+          "answer": null
+        },
+        {
+          "questionId": 407,
+          "answer": null
+        },
+        {
+          "questionId": 408,
+          "answer": null
+        },
+        {
+          "questionId": 409,
+          "answer": null
+        },
+        {
+          "questionId": 410,
+          "answer": null
+        },
+        {
+          "questionId": 411,
+          "answer": null
+        },
+        {
+          "questionId": 412,
+          "answer": null
+        },
+        {
+          "questionId": 413,
+          "answer": null
+        },
+        {
+          "questionId": 414,
+          "answer": null
+        },
+        {
+          "questionId": 415,
+          "answer": null
+        },
+        {
+          "questionId": 416,
+          "answer": null
+        },
+        {
+          "questionId": 417,
+          "answer": null
+        },
+        {
+          "questionId": 418,
+          "answer": null
+        },
+        {
+          "questionId": 419,
+          "answer": null
+        },
+        {
+          "questionId": 420,
+          "answer": null
+        }
+      ]
+    },
+    {
+      "id": 1745036330018,
+      "userId": 1743660127545,
+      "topicId": 5,
+      "answers": [
+        {
+          "questionId": 501,
+          "answer": 3
+        },
+        {
+          "questionId": 502,
+          "answer": null
+        },
+        {
+          "questionId": 503,
+          "answer": null
+        },
+        {
+          "questionId": 504,
+          "answer": null
+        },
+        {
+          "questionId": 505,
+          "answer": null
+        },
+        {
+          "questionId": 506,
+          "answer": null
+        },
+        {
+          "questionId": 507,
+          "answer": null
+        },
+        {
+          "questionId": 508,
+          "answer": null
+        },
+        {
+          "questionId": 509,
+          "answer": null
+        },
+        {
+          "questionId": 510,
+          "answer": null
+        },
+        {
+          "questionId": 511,
+          "answer": null
+        },
+        {
+          "questionId": 512,
+          "answer": null
+        },
+        {
+          "questionId": 513,
+          "answer": null
+        },
+        {
+          "questionId": 514,
+          "answer": null
+        },
+        {
+          "questionId": 515,
+          "answer": null
+        },
+        {
+          "questionId": 516,
+          "answer": null
+        },
+        {
+          "questionId": 517,
+          "answer": null
+        },
+        {
+          "questionId": 518,
+          "answer": null
+        },
+        {
+          "questionId": 519,
+          "answer": null
+        },
+        {
+          "questionId": 520,
+          "answer": null
+        }
+      ]
+    }
+  ]
+}
